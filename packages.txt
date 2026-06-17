@@ -1,4 +1,0 @@
-tesseract-ocr
-libgl1-mesa-glx
-chromium
-chromium-driver
